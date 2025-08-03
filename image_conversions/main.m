@@ -2,7 +2,7 @@ clc
 clear all
 close all
 
-I = imread('auto.jpg'); % Load image
+I = imread('wallpaper.jpg'); % Load image
 
 % Show original image
 figure;
