@@ -153,5 +153,5 @@ if __name__ == "__main__":
     print("\n--- Compression Statistics ---")
     print(f"Original size (bits): {original_size_bits}")
     print(f"Compressed size (bits): {compressed_size_bits}")
-    print(f"Compression Ratio: {compression_ratio}x")
+    print(f"Compression Ratio: {compression_ratio}")
     print("------------------------------")
